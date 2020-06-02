@@ -11,3 +11,14 @@ web-build/
 
 # macOS
 .DS_Store
+
+screens
+components
+constants
+hooks
+navigation
+assets
+.expo
+.expo-shared
+node_modules
+web-build
